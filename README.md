@@ -1,11 +1,11 @@
-# Catterest
+# Caterest
 
-Catterest | UICollectionView Custom Layout : Pinterest Layout
+Caterest | UICollectionView Custom Layout : Pinterest Layout
 
 
 
 ### Screenshots 
-![Catterest](/caterest.png)
+![Caterest](/caterest.png)
 
 
 ### Credits to :heart: 
