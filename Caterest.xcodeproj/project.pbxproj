@@ -50,7 +50,7 @@
 		CE150F53243D35DF00BA1C7E = {
 			isa = PBXGroup;
 			children = (
-				CE150F5E243D35DF00BA1C7E /* Canterest */,
+				CE150F5E243D35DF00BA1C7E /* Caterest */,
 				CE150F5D243D35DF00BA1C7E /* Products */,
 			);
 			sourceTree = "<group>";
@@ -63,7 +63,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		CE150F5E243D35DF00BA1C7E /* Canterest */ = {
+		CE150F5E243D35DF00BA1C7E /* Caterest */ = {
 			isa = PBXGroup;
 			children = (
 				CE150F79243D373E00BA1C7E /* Configurations */,
@@ -74,7 +74,7 @@
 				CE150F74243D370E00BA1C7E /* Layout */,
 				CE150F73243D370600BA1C7E /* Assets */,
 			);
-			path = Canterest;
+			path = Caterest;
 			sourceTree = "<group>";
 		};
 		CE150F73243D370600BA1C7E /* Assets */ = {
@@ -181,7 +181,7 @@
 					};
 				};
 			};
-			buildConfigurationList = CE150F57243D35DF00BA1C7E /* Build configuration list for PBXProject "Canterest" */;
+			buildConfigurationList = CE150F57243D35DF00BA1C7E /* Build configuration list for PBXProject "Caterest" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -403,7 +403,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		CE150F57243D35DF00BA1C7E /* Build configuration list for PBXProject "Canterest" */ = {
+		CE150F57243D35DF00BA1C7E /* Build configuration list for PBXProject "Caterest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				CE150F6E243D35EE00BA1C7E /* Debug */,
