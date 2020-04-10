@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Photo</key>
+		<string>cat-1</string>
+		<key>Caption</key>
+		<string>Whaaaat !</string>
+	</dict>
+	<dict>
+		<key>Photo</key>
+		<string>cat-2</string>
+		<key>Caption</key>
+		<string>Who is there ?</string>
+	</dict>
+	<dict>
+		<key>Photo</key>
+		<string>cat-3</string>
+		<key>Caption</key>
+		<string> Where is my food !</string>
+	</dict>
+	<dict>
+		<key>Photo</key>
+		<string>cat-4</string>
+		<key>Caption</key>
+		<string>Cat Boss</string>
+	</dict>
+	<dict>
+		<key>Photo</key>
+		<string>cat-5</string>
+		<key>Caption</key>
+		<string>Leave me alone.
+Leave me alone.
+</string>
+	</dict>
+	<dict>
+		<key>Photo</key>
+		<string>cat-6</string>
+		<key>Caption</key>
+		<string>Super Meoww !</string>
+	</dict>
+	<dict>
+		<key>Photo</key>
+		<string>cat-7</string>
+		<key>Caption</key>
+		<string> No rats in my watch</string>
+	</dict>
+	<dict>
+		<key>Photo</key>
+		<string>cat-8</string>
+		<key>Caption</key>
+		<string> Huh ?</string>
+	</dict>
+	<dict>
+		<key>Photo</key>
+		<string>cat-9</string>
+		<key>Caption</key>
+		<string>Cat pose</string>
+	</dict>
+	<dict>
+		<key>Photo</key>
+		<string>cat-10</string>
+		<key>Caption</key>
+		<string>ZZZZZZZ</string>
+	</dict>
+	<dict>
+		<key>Photo</key>
+		<string>cat-11</string>
+		<key>Caption</key>
+		<string>Really ?</string>
+	</dict>
+	<dict>
+		<key>Photo</key>
+		<string>cat-12</string>
+		<key>Caption</key>
+		<string>Oh My Meowww !</string>
+	</dict>
+	<dict>
+		<key>Photo</key>
+		<string>cat-13</string>
+		<key>Caption</key>
+		<string>Babyy Meoww dododo</string>
+	</dict>
+</array>
+</plist>
